@@ -5,7 +5,7 @@ Evolution development Ruby
 _Caso você já saiba sobre algum assunto pode pular o assunto_
 
 ### 1º Passo - Comandos via Terminal
-> Iniciando o estudo por comandos no terminal para entender o básico do computador. >
+> Iniciando o estudo por comandos no terminal para entender o básico do computador.>
 * Abrir qualquer software
 * Instalar/Atualizar um software
 * Listar arquivos
