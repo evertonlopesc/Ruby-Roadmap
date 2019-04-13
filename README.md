@@ -23,3 +23,11 @@ _Caso você já saiba sobre algum assunto pode pular o assunto_
 * Manual
 * Mudar senha do usuário
 * Desligar o computador
+
+
+### Git
+> Esse carinha vai ser de muita importância daqui para o futuro.
+* Fluxo de tabalho
+* Criar um reposítório
+* Copiar um repositório
+* Adicionar e Confirmar
