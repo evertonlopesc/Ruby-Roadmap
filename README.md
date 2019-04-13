@@ -6,6 +6,7 @@ _Caso você já saiba sobre algum assunto pode pular o assunto_
 
 ### 1º Passo - Comandos via Terminal
 > Iniciando o estudo por comandos no terminal para entender o básico do computador.
+
 l. Abrir qualquer software
 l. Instalar/Atualizar um software
 l. Listar arquivos
