@@ -39,8 +39,8 @@ Conheça o Rubocop para melhorar seu código!
 ### 4º Passo - Aprenda sobre testes
 _Garanta que seus projetos serão bem construídos._
 > Curso bom: [https://onebitcode.com/course/minicurso-de-testes/]
-> Busque por mais conhecimento
-> E pratique muito.
+
+_Busque por mais conhecimento e pratique muito._
 
 ### 5º Passo - Aprenda Banco de dados relacional
 Os mais utilizados com Ruby são:
