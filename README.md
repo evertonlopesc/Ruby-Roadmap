@@ -80,6 +80,7 @@ Escolha o seu:
 > * RethinkDB
 > * Cassandra
 > * Couchbase  
+
 [Vídeo sobre NoSQL](https://www.youtube.com/watch?v=1B64oqE8PLs&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=27)
 
 ### 8º Passo - Caching
