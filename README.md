@@ -9,7 +9,8 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 
 [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)
 
-[Documentação](https://git-scm.com/docs], [https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+[Documentação oficial](https://git-scm.com/docs)
+[Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
 
