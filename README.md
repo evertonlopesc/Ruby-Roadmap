@@ -12,8 +12,8 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
 _Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._  
-[Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
-[Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
+- [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
+- [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
 
 ### 2º Passo - Conheça Controle de Versão
 Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
