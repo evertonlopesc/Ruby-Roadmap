@@ -37,7 +37,7 @@ Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Est
 > Faça exercícios para fixar seu aprendizado.
 - [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __(gosto desse site, pois quebra a cabeça por besteira :-) )__
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
-- [Exercícios com Exercism.io](https://exercism.io/)
+- [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
 > Participe da comunidade Ruby Brasil no Teregram
 > Procure participar de um projeto Opensource.
