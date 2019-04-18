@@ -31,12 +31,13 @@ Instale o Ruby escolhendo um gerenciador, temos:
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
 livros para ajudar nos estudos:
 - [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) _(Esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)_
-* [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_
-
+- [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
+- [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)  
+- [Cursos da Codesaga](https://www.codesaga.com.br/)
 > Faça exercícios para fixar seu aprendizado.
-> * Link: [https://onebitcode.com/course/ruby-puro/]
-> * Link: [https://www.codesaga.com.br/]
-> * Link: [https://www.urionlinejudge.com.br] __gosto desse site, pois quebra a cabeça por besteira :-)__
+- [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __gosto desse site, pois quebra a cabeça por besteira :-)__
+- [Exercícios com Hacker Rank](https://www.hackerrank.com/)
+- [Exercícios com Exercism.io](https://exercism.io/)
 
 Conheça o Rubocop para melhorar seu código!
 
