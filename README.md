@@ -30,7 +30,7 @@ Instale o Ruby escolhendo um gerenciador, temos:
 
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
 livros para ajudar nos estudos:
-- [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) _(###### Esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)_
+- [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) _(Esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)_
 * [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_
 
 > Faça exercícios para fixar seu aprendizado.
