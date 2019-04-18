@@ -24,9 +24,9 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 
 ### 3º Passo - Aprenda a linguagem Ruby
 > * Instale o Ruby escolhendo um gerenciador, temos:
-  - RVM: [https://rvm.io/rvm/install]
-  - RBenv: [https://github.com/rbenv/rbenv]
-  - asdf: [https://asdf-vm.com/#/] (__é bem completo__)
+  - [RMV](https://rvm.io/rvm/install)  
+  - [RBenv](https://github.com/rbenv/rbenv)  
+  - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
 > livros para ajudar nos estudos:
