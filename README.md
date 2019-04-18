@@ -23,14 +23,14 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 - [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
 
 ### 3º Passo - Aprenda a linguagem Ruby
->Instale o Ruby escolhendo um gerenciador, temos:
+Instale o Ruby escolhendo um gerenciador, temos:
   - [RMV](https://rvm.io/rvm/install)  
   - [RBenv](https://github.com/rbenv/rbenv)  
   - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
-> livros para ajudar nos estudos:
-> * Livro 1: [https://leanpub.com/conhecendo-ruby]
+livros para ajudar nos estudos:
+- [Livro 1](https://leanpub.com/conhecendo-ruby) _Esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!_
 > * Livro 2: [https://books.goalkicker.com/RubyBook/]
 
 > Faça exercícios para fixar seu aprendizado.
