@@ -24,7 +24,7 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 
 ### 3º Passo - Aprenda a linguagem Ruby
 Instale o Ruby escolhendo um gerenciador, temos:
-  1. [RMV](https://rvm.io/rvm/install)  
+  - [RMV](https://rvm.io/rvm/install)  
   - [RBenv](https://github.com/rbenv/rbenv)  
   - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
@@ -39,13 +39,13 @@ livros para ajudar nos estudos:
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/)
 
-Conheça o Rubocop para melhorar seu código!
-
+> Participe da comunidade Ruby Brasil no Teregram
 > Procure participar de um projeto Opensource.
+> Conheça o Rubocop para melhorar seu código!
 
 ### 4º Passo - Aprenda sobre testes
 _Garanta que seus projetos serão bem construídos._
-> Curso bom: [https://onebitcode.com/course/minicurso-de-testes/]
+> [Minicurso de Testes (RSpec) - OneBitCode](https://onebitcode.com/course/minicurso-de-testes/)
 
 _Busque por mais conhecimento e pratique muito._
 
@@ -57,9 +57,9 @@ Os mais utilizados com Ruby são:
 
 ### 6º Passo - Aprenda um Framework
 Aprenda sobre HTML, CSS e Javascript:
-> * HTML: [https://www.youtube.com/watch?v=o5fd5FUk2fk&list=PLx4x_zx8csUgluS7H9gyb9HH7g7F2ZWSQ]
-> * CSS: [https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV]
-> * Javascript [https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1]
+* [Curso de HTML básico](https://www.youtube.com/watch?v=o5fd5FUk2fk&list=PLx4x_zx8csUgluS7H9gyb9HH7g7F2ZWSQ)
+* [Curso de CSS básico](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
+* [Curso de Javascript básico](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1)
 
 _Aprenda o básico de início e caso ache algum curso melhor, faça!_
 
@@ -70,7 +70,7 @@ Vou mostrar poucos frameworks para ruby:
 > * Hobbit - minimalista.
 
 Curso de Ruby on Rails: 
-> Link: [https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP]
+* [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 
 Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.
 
@@ -79,20 +79,19 @@ Escolha o seu:
 > * MongoDB
 > * RethinkDB
 > * Cassandra
-> * Couchbase
-
-Aulinha: [https://www.youtube.com/watch?v=1B64oqE8PLs&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=27]
+> * Couchbase  
+[Vídeo sobre NoSQL](https://www.youtube.com/watch?v=1B64oqE8PLs&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=27)
 
 ### 8º Passo - Caching
 Aprenda como implementar um app caching usando **Redis ou Memcached""
 _Melhore os seus projetos anteriores com ele._
 
-Aulinha: [https://www.youtube.com/watch?v=I8iGQjKGjDA&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=6]
+* [Vídeo sobre Cache](https://www.youtube.com/watch?v=I8iGQjKGjDA&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=6)
 
 ### 9º Passo - Aprenda a criar uma API
 Aprenda o padrão REST e como fazer uma API's RESTful e certifique-se de ler a parte sobre REST do papel original de Roy Fielding.
 
-Aulinha: [https://www.youtube.com/watch?v=vGuqKIRWosk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=2]
+* [Vídeo sobre API](https://www.youtube.com/watch?v=vGuqKIRWosk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=2)
 
 ### 10º Passo - Metodologia de Autenticação/Autorização
 Aprenda sobre as diferenças e como implementá-los.
@@ -112,14 +111,14 @@ Escolha uma:
 
 ### 13º Passo - Aprenda como usar o Docker
 Corre que é coisa demais!
-> documentação: [https://docs.docker.com/]
-> Aulinha: [https://www.youtube.com/watch?v=-pUZBovqRcU&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=10]
+* [Documentação](https://docs.docker.com/)
+* [Vídeo sobre o Docker](https://www.youtube.com/watch?v=-pUZBovqRcU&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=10)
 
 ### 14º Passo - Servidores Web
 
 ### 15º Passo - Apenda como usar Web Sockets
 
 ### 16º Passo - Aprenda GraphQL
-> Aulinha: [https://www.youtube.com/watch?v=xbLpIhCsIdg&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=19]
+* [Vídeo sobre GraphQL](https://www.youtube.com/watch?v=xbLpIhCsIdg&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=19])
 
 __Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!__
