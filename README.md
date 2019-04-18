@@ -23,7 +23,7 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 - [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
 
 ### 3º Passo - Aprenda a linguagem Ruby
-> * Instale o Ruby escolhendo um gerenciador, temos:
+>Instale o Ruby escolhendo um gerenciador, temos:
   - [RMV](https://rvm.io/rvm/install)  
   - [RBenv](https://github.com/rbenv/rbenv)  
   - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
