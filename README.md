@@ -24,18 +24,18 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 
 ### 3º Passo - Aprenda a linguagem Ruby
 Instale o Ruby escolhendo um gerenciador, temos:
-  - [RMV](https://rvm.io/rvm/install)  
+  1. [RMV](https://rvm.io/rvm/install)  
   - [RBenv](https://github.com/rbenv/rbenv)  
   - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
 livros para ajudar nos estudos:
-- [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) _(Esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)_
+- [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) __(esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)__
 - [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
 - [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)  
 - [Cursos da Codesaga](https://www.codesaga.com.br/)
 > Faça exercícios para fixar seu aprendizado.
-- [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __gosto desse site, pois quebra a cabeça por besteira :-)__
+- [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __(gosto desse site, pois quebra a cabeça por besteira :-) )__
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/)
 
