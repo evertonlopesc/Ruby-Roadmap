@@ -6,10 +6,9 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 
 ### Essencial - Aprenda a língua Inglesa
 >  
-- Traduza texto de músicas, livros, documentações  
+- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
-- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)  
-- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0)  
+- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)   
 
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
