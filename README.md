@@ -28,8 +28,8 @@ Instale o Ruby escolhendo um gerenciador, temos:
   - [RBenv](https://github.com/rbenv/rbenv)  
   - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
-Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.
-livros para ajudar nos estudos:
+Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.  
+Livros para ajudar nos estudos:
 - [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) __(esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)__
 - [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
 - [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)  
