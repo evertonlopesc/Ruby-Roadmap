@@ -6,15 +6,15 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 
 ### 1º Passo - Conheça Controle de Versão
 Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.
-> * Links: [https://git-scm.com/docs], [https://rogerdudler.github.io/git-guide/index.pt_BR.html]
-> * Noções básicas: [https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git]
-> * Curso básico: [https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC]
+> * Link 1: (Curso básico)[https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC]
+> * Link 2: (Documentação)[https://git-scm.com/docs], [https://rogerdudler.github.io/git-guide/index.pt_BR.html]
+> * Link 3: (Noções básicas)[https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git]
 
 ### 2º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
 _Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._
 
-> * Link: [https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7]
+> * Link: (Comandos básicos)[https://www.youtube.com/watch?v=uZeMQz89pfw]
 
 ### 3º Passo - Aprenda a linguagem Ruby
 > * Instale o Ruby escolhendo um gerenciador, temos:
