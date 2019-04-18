@@ -5,25 +5,22 @@ Evolution of a ruby ​​web developer
 Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure aprender Inglês ao longo dos estudos)
 
 ### Essencial - Aprenda a língua Inglesa
->  
 - [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
 - [Aprenda fala com Hellolingo](https://www.hellolingo.com/)   
 
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
-_Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._
-> Links:  
+_Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._  
 [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
 [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
 
 ### 2º Passo - Conheça Controle de Versão
-Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.
-> Links:  
-[Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
-[Documentação oficial](https://git-scm.com/docs)  
-[Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
-[Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
+Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
+- [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
+- [Documentação oficial](https://git-scm.com/docs)  
+- [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
+- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
 
 ### 3º Passo - Aprenda a linguagem Ruby
 > * Instale o Ruby escolhendo um gerenciador, temos:
