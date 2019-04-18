@@ -8,7 +8,8 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 >  
 - Traduza texto de músicas, livros, documentações  
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
-- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)
+- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)  
+- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0)  
 
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
