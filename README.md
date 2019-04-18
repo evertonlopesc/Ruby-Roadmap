@@ -44,8 +44,8 @@ Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Est
 > Conheça o Rubocop para melhorar seu código!
 
 ### 4º Passo - Aprenda sobre testes
-_Garanta que seus projetos serão bem construídos._
-> [Minicurso de Testes (RSpec) - OneBitCode](https://onebitcode.com/course/minicurso-de-testes/)
+> _Garanta que seus projetos serão bem construídos._
+* [Minicurso de Testes (RSpec) - OneBitCode](https://onebitcode.com/course/minicurso-de-testes/)
 
 _Busque por mais conhecimento e pratique muito._
 
