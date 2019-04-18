@@ -4,6 +4,12 @@ Evolution of a ruby ​​web developer
 ## Esses são o passo-à-passo que considero para aprender a desenvolver com Ruby.
 Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure aprender Inglês ao longo dos estudos)
 
+### Essencial - Aprenda a língua Inglesa
+>  
+- Traduza texto de músicas, livros, documentações  
+- [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
+- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)
+
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
 _Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._
