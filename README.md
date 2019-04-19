@@ -24,9 +24,9 @@ Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por
 
 ### 3º Passo - Aprenda a linguagem Ruby
 Instale o Ruby escolhendo um gerenciador, temos:
-  - [RMV](https://rvm.io/rvm/install)  
-  - [RBenv](https://github.com/rbenv/rbenv)  
-  - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
+- [RMV](https://rvm.io/rvm/install)  
+- [RBenv](https://github.com/rbenv/rbenv)  
+- [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
 Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.  
 > Livros para ajudar nos estudos:
@@ -113,7 +113,8 @@ Escolha uma:
 ### 13º Passo - Aprenda como usar o Docker
 Corre que é coisa demais!
 * [Documentação](https://docs.docker.com/)
-* [Vídeo sobre o Docker](https://www.youtube.com/watch?v=-pUZBovqRcU&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=10)
+* [Vídeo sobre o Docker - Parte 1](https://www.youtube.com/watch?v=bwO8EZf0gLI)
+* [Vídeo sobre o Docker - Parte 2](https://www.youtube.com/watch?v=mcwnQVAn0pw&t=670s)
 
 ### 14º Passo - Servidores Web
 
