@@ -15,14 +15,7 @@ _Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copia
 - [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
 - [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
 
-### 2º Passo - Conheça Controle de Versão
-Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
-- [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
-- [Documentação oficial](https://git-scm.com/docs)  
-- [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
-- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
-
-### 3º Passo - Aprenda a linguagem Ruby
+### 2º Passo - Aprenda a linguagem Ruby
 Instale o Ruby escolhendo um gerenciador, temos:
 - [RMV](https://rvm.io/rvm/install)  
 - [RBenv](https://github.com/rbenv/rbenv)  
@@ -39,9 +32,16 @@ Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Est
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
-> Participe da comunidade Ruby Brasil no Teregram
+> Participe da comunidade Ruby Brasil no Teregram, podemos ajudar em suas dúvidas!
 > Procure participar de um projeto Opensource.
-> Conheça o Rubocop para melhorar seu código!
+> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/)
+
+### 3º Passo - Conheça Controle de Versão
+Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
+- [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
+- [Documentação oficial](https://git-scm.com/docs)  
+- [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
+- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
 
 ### 4º Passo - Aprenda sobre testes
 > _Garanta que seus projetos serão bem construídos._
@@ -51,9 +51,9 @@ _Busque por mais conhecimento e pratique muito._
 
 ### 5º Passo - Aprenda Banco de dados relacional
 Os mais utilizados com Ruby são:
-> * PostgreSQL
-> * MySQL
-> * MS SQL SERVER
+* [PostgreSQL - Curso básico](https://www.youtube.com/watch?v=Wmg_JfwkODU&list=PLDqAb8tE7SQZzMWvPG4PYevQAW1cDsbD0)
+* [MySQL - Curso básico](https://www.youtube.com/watch?v=T3t-wziJN6I&list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
+* [MS SQL SERVER - curso básico](https://www.youtube.com/watch?v=1YQIRdWkMvs&list=PLucm8g_ezqNqI5cW3alteV5olcMCcHYRK)
 
 ### 6º Passo - Aprenda um Framework
 Aprenda sobre HTML, CSS e Javascript:
@@ -69,33 +69,33 @@ Vou mostrar poucos frameworks para ruby:
 > * Hanami (ex Lotus)
 > * Hobbit - minimalista.
 
-Curso de Ruby on Rails: 
+Curso de Ruby on Rails:  
+* [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 * [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 
 Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.
 
 ### 7º Passo - Aprenda Banco de dados não relacionais (NoSQL)
+[Vídeo sobre NoSQL](https://www.youtube.com/watch?v=1B64oqE8PLs&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=27)
+
 Escolha o seu:
-> * MongoDB
+* [MongoDB - curso básico](https://www.youtube.com/watch?v=3z90A7VBF4Y&list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS)
 > * RethinkDB
 > * Cassandra
 > * Couchbase  
 
-[Vídeo sobre NoSQL](https://www.youtube.com/watch?v=1B64oqE8PLs&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=27)
-
 ### 8º Passo - Caching
-Aprenda como implementar um app caching usando **Redis ou Memcached""
-_Melhore os seus projetos anteriores com ele._
-
-* [Vídeo sobre Cache](https://www.youtube.com/watch?v=I8iGQjKGjDA&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=6)
+* [Cache no Rails - OneBitCode](https://onebitcode.com/cache_no_rails/)
 
 ### 9º Passo - Aprenda a criar uma API
 Aprenda o padrão REST e como fazer uma API's RESTful e certifique-se de ler a parte sobre REST do papel original de Roy Fielding.
-
 * [Vídeo sobre API](https://www.youtube.com/watch?v=vGuqKIRWosk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=2)
+* [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
+* [Mini curso API - OniBitCode](https://onebitcode.com/course/criando-uma-api-completa-com-rails/)
 
 ### 10º Passo - Metodologia de Autenticação/Autorização
 Aprenda sobre as diferenças e como implementá-los.
+* [Autenticação + Autorização - OneBitCode](https://www.youtube.com/watch?v=0Y7B4h3Mwi8&list=PLdDT8if5attE7GG4L4Annvd9gEhKsPvb9)
 
 ### 11º Passo - Message Brokers.
 Aprenda sobre as quebras de mensagens, padronizando o 'porque' e escolha uma.
@@ -106,7 +106,7 @@ Escolha uma:
 ### 12º Passo - Aprenda um Search Engine
 À medida que o aplicativo cresce, consultas simples em seu banco de dados não vão interrompê-lo e você terá que recorrer a um mecanismo de busca.
 Escolha uma:
-> * ElasticSearch
+* [ElasticSearch](https://onebitcode.com/buscas-elasticsearch/)
 > * Solr
 > * Sphinx
 
@@ -119,8 +119,10 @@ Corre que é coisa demais!
 ### 14º Passo - Servidores Web
 
 ### 15º Passo - Apenda como usar Web Sockets
+* [Action Cable - OneBitCode](https://onebitcode.com/como-criar-um-chat-em-tempo-real-usando-action-cable-rails-5/)
 
 ### 16º Passo - Aprenda GraphQL
 * [Vídeo sobre GraphQL](https://www.youtube.com/watch?v=xbLpIhCsIdg&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=19])
+* [GraphQL - OneBitCode](https://onebitcode.com/graphql-introducao/)
 
 __Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!__
