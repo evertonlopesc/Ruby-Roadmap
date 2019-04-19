@@ -32,9 +32,9 @@ Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Est
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
-> Participe da comunidade Ruby Brasil no Teregram, podemos ajudar em suas dúvidas!
-> Procure participar de um projeto Opensource.
-> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/)
+> Participe da comunidade Ruby Brasil no Teregram, podemos ajudar em suas dúvidas!  
+> Procure participar de um projeto Opensource.  
+> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/)  
 
 ### 3º Passo - Conheça Controle de Versão
 Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
