@@ -112,9 +112,9 @@ Escolha uma:
 
 ### 13º Passo - Aprenda como usar o Docker
 Corre que é coisa demais!
+* [Curso de Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
+* [Dominando o Docker - OneBitCode](https://onebitcode.com/dominando-o-docker/)
 * [Documentação](https://docs.docker.com/)
-* [Vídeo sobre o Docker - Parte 1](https://www.youtube.com/watch?v=bwO8EZf0gLI)
-* [Vídeo sobre o Docker - Parte 2](https://www.youtube.com/watch?v=mcwnQVAn0pw&t=670s)
 
 ### 14º Passo - Servidores Web
 
