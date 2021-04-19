@@ -1,6 +1,8 @@
 # Ruby - Roadmap
 Evolution of a ruby ​​web developer
 
+![Ruby](https://www.loginworks.com/wp-content/uploads/2018/02/ruby-programming-language-a-guide-2.jpg)
+
 ## Esses são o passo-à-passo que considero para aprender a desenvolver com Ruby.
 Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure aprender Inglês ao longo dos estudos)
 
@@ -14,6 +16,7 @@ Iniciando o estudo por comandos no terminal para entender o básico do computado
 _Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual._  
 - [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
 - [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
+- [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
 
 ### 2º Passo - Aprenda a linguagem Ruby
 Instale o Ruby escolhendo um gerenciador, temos:
@@ -127,3 +130,4 @@ Corre que é coisa demais!
 * [GraphQL - OneBitCode](https://onebitcode.com/graphql-introducao/)
 
 __Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!__
+
