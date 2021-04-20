@@ -1,7 +1,7 @@
+![Ruby](https://www.loginworks.com/wp-content/uploads/2018/02/ruby-programming-language-a-guide-2.jpg)
+
 # Ruby - Roadmap
 Evolution of a ruby ​​web developer
-
-![Ruby](https://www.loginworks.com/wp-content/uploads/2018/02/ruby-programming-language-a-guide-2.jpg)
 
 ## Esses são o passo-à-passo que considero para aprender a desenvolver com Ruby.
 Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure aprender Inglês ao longo dos estudos)
