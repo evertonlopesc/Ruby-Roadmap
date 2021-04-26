@@ -9,7 +9,8 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 ### Essencial - Aprenda a língua Inglesa
 - [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
-- [Aprenda fala com Hellolingo](https://www.hellolingo.com/)   
+
+Infelizmente o Hellolingo será descontinuado.
 
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
