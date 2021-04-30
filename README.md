@@ -10,7 +10,7 @@ Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure apr
 - [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)  
 
-Infelizmente o Hellolingo será descontinuado.
+Infelizmente o Hellolingo foi descontinuado.
 
 ### 1º Passo - Aprenda sobre comandos via Terminal
 Iniciando o estudo por comandos no terminal para entender o básico do computador.
@@ -25,14 +25,21 @@ Instale o Ruby escolhendo um gerenciador, temos:
 - [RBenv](https://github.com/rbenv/rbenv)  
 - [asdf](https://asdf-vm.com/#/) (__é bem completo__)  
 
-Demorou mais chegou, porém caso não saiba de nada começe por Algoritmos e Estrutura de Dados.  
+#### Demorou mais chegou! 
+Caso não saiba de nada, comece por:
+* Lógica de programação - é um paradigma de programação que faz uso da lógica matemática.
+* Algoritmos - é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.
+* Estrutura de Dados - é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes).
+
 [Aulinha de introdução](https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3)
-> Livros para ajudar nos estudos:
+
+#### Livros para ajudar nos estudos:
 - [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) __(esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)__
 - [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
 - [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)  
 - [Cursos da Codesaga](https://www.codesaga.com.br/)
-> Faça exercícios para fixar seu aprendizado.
+
+#### Faça exercícios para fixar seu aprendizado.
 - [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __(gosto desse site, pois quebra a cabeça por besteira :-) )__
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
@@ -132,3 +139,4 @@ Corre que é coisa demais!
 
 __Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!__
 
+Referência: [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
