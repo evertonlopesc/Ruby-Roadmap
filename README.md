@@ -55,8 +55,8 @@ Caso não saiba de nada, comece por:
 
 ### 3º Passo - Conheça Controle de Versão
 Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.
-- [Entendendo sobre o Git](https://youtu.be/6Czd1Yetaac)
-- [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
+- [Entendendo sobre o Git - Fábio Akita](https://youtu.be/6Czd1Yetaac)
+- [Usando Git - Fábio Akita](https://youtu.be/6OokP-NE49k)  
 - [Documentação oficial](https://git-scm.com/docs)  
 - [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
 - [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
