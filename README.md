@@ -48,10 +48,10 @@ Caso não saiba de nada, comece por:
 
 
 #### Participe das comunidade Ruby
-> [Ruby Brasil - Telegram](https://t.me/rubybrasil)
-> [Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
-> Procure participar de um projeto Opensource.
-> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/) 
+* [Ruby Brasil - Telegram](https://t.me/rubybrasil) 
+* [Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
+* Procure participar de um projeto Opensource.
+* [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/) 
 
 ### 3º Passo - Conheça Controle de Versão
 Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.
