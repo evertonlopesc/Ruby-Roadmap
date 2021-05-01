@@ -31,25 +31,31 @@ Caso não saiba de nada, comece por:
 * Algoritmos - é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.
 * Estrutura de Dados - é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes).
 
-[Aulinha de introdução](https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3)
+[Aulinha de introdução](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 
-#### Livros para ajudar nos estudos:
-- [Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) __(esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)__
-- [Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
+[Programação para Iniciantes - Fábio Akita](https://youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
+
+#### Livros e Cursos para ajudar nos estudos:
+- [Livro - Conhecendo Ruby - Eustáquio Rangel](https://leanpub.com/conhecendo-ruby) __(esse livro você pode baixar gratuito, mas se puder doar, doe, vale a pena!)__
+- [Livro - Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/) _complemento_  
 - [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)  
-- [Cursos da Codesaga](https://www.codesaga.com.br/)
+- [Curso -Linguagem Ruby - Danilo Aparecido](https://www.torneseumprogramador.com.br/aulas/ruby)
 
 #### Faça exercícios para fixar seu aprendizado.
 - [Exercícios com URI Online Judge](https://www.urionlinejudge.com.br) __(gosto desse site, pois quebra a cabeça por besteira :-) )__
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
-> Participe da comunidade Ruby Brasil no Teregram, podemos ajudar em suas dúvidas!  
-> Procure participar de um projeto Opensource.  
-> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/)  
+
+#### Participe das comunidade Ruby
+>[Ruby Brasil - Telegram](https://t.me/rubybrasil)
+>[Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
+> Procure participar de um projeto Opensource.
+> [Conheça o OneBitCode, ele traz muito conhecimento para a comunidade Ruby](https://onebitcode.com/) 
 
 ### 3º Passo - Conheça Controle de Versão
-Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.  
+Esse carinha vai ser de muita importância daqui para o futuro, é utilizado por todas as empresas CVS, **GIT** (recomendo), SVN, Bitkeeper.
+- [Entendendo sobre o Git](https://youtu.be/6Czd1Yetaac)
 - [Curso básico](https://www.youtube.com/watch?v=4aWOj-kWpM4&list=PLmSWX0ePcw4h4Hf1nmrvIxJJ_2QjojhVC)  
 - [Documentação oficial](https://git-scm.com/docs)  
 - [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)  
@@ -139,4 +145,8 @@ Corre que é coisa demais!
 
 __Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!__
 
-Referência: [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+Referência: 
+> [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+> [torneseumprogramador](https://www.torneseumprogramador.com.br/)
+> [OneBitCode](https://onebitcode.com/)
+> [Fábio Akita - Canal Youtube](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
