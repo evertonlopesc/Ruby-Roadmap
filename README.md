@@ -24,37 +24,16 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 ---
 
-### Front End - Conhecimento básico:
+### Aprendendo uma Línguagem
+
+Sua Linguagem Não É Especial - [Parte 1](https://youtu.be/p9-WuJbVHHc) - [Parte 2](https://youtu.be/XcTTajFENHI)
+
+**Front End - Conhecimento básico:**
 * [Curso de HTML básico](https://www.youtube.com/watch?v=o5fd5FUk2fk&list=PLx4x_zx8csUgluS7H9gyb9HH7g7F2ZWSQ)
 * [Curso de CSS básico](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
 * [Curso de Javascript básico](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1)
 
 *Divirtam-se e aprenda o básico de início e caso ache algum curso melhor, faça!*
-
----
-
-### OS e Conhecimento geral
-* Wikipédia história: [Windows](https://pt.wikipedia.org/wiki/Microsoft_Windows) - [Linux](https://pt.wikipedia.org/wiki/Linux) - [MacOS](https://pt.wikipedia.org/wiki/MacOS)
-
-* Se optar a usar o Linux como sua máquina: [O Guia DEFINITIVO de UBUNTU para Devs Iniciantes - Fábio Akita](https://youtu.be/epiyExCyb2s)
-
-Entendendo Back-End para Iniciantes (por Fábio Akita)
-1. Iniciando o assunto [Parte 1](https://youtu.be/Qjk-cSW-jk4)
-2. Iniciando o assunto [Parte 2](https://youtu.be/N6vgZr1k03g)
-3. Concorrência e Paralelismo [Parte 1](https://youtu.be/cx1ULv4wYxM)
-4. Concorrência e Paralelismo [Parte 2](https://youtu.be/gYJSWs-gp1g)
-5. Gerenciamento de Memória  [Parte 1](https://youtu.be/9AK_1gqEfkQ)
-6. Gerenciamento de Memória  [Parte 2](https://youtu.be/DGU1awKrNiA)
-
-Comandos do Terminal: Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual.
-* [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
-* [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
-* [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
-
----
-
-### Aprendendo uma Línguagem
-Sua Linguagem Não É Especial - [Parte 1](https://youtu.be/p9-WuJbVHHc) - [Parte 2](https://youtu.be/XcTTajFENHI)
 
 #### linguagem Ruby - (Divirtam-se!)
 Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
@@ -105,6 +84,26 @@ Vou mostrar poucos frameworks para ruby:
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
 *Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.*
+
+---
+
+### OS e Conhecimento geral
+* Wikipédia história: [Windows](https://pt.wikipedia.org/wiki/Microsoft_Windows) - [Linux](https://pt.wikipedia.org/wiki/Linux) - [MacOS](https://pt.wikipedia.org/wiki/MacOS)
+
+* Se optar a usar o Linux como sua máquina: [O Guia DEFINITIVO de UBUNTU para Devs Iniciantes - Fábio Akita](https://youtu.be/epiyExCyb2s)
+
+Entendendo Back-End para Iniciantes (por Fábio Akita)
+1. Iniciando o assunto [Parte 1](https://youtu.be/Qjk-cSW-jk4)
+2. Iniciando o assunto [Parte 2](https://youtu.be/N6vgZr1k03g)
+3. Concorrência e Paralelismo [Parte 1](https://youtu.be/cx1ULv4wYxM)
+4. Concorrência e Paralelismo [Parte 2](https://youtu.be/gYJSWs-gp1g)
+5. Gerenciamento de Memória  [Parte 1](https://youtu.be/9AK_1gqEfkQ)
+6. Gerenciamento de Memória  [Parte 2](https://youtu.be/DGU1awKrNiA)
+
+Comandos do Terminal: Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual.
+* [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
+* [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
+* [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
 
 ---
 
