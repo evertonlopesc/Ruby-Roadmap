@@ -162,8 +162,10 @@ _Busque por mais conhecimento e pratique muito._
 ### Message Brokers.
 Aprenda sobre as quebras de mensagens, padronizando o 'porque' e escolha uma.
 Escolha uma:
-* RabbitMQ
-* Kafka
+- [RabbitMQ](https://www.rabbitmq.com/)
+  - [Bunny, a Ruby RabbitMQ Client](https://github.com/ruby-amqp/bunny)
+- [Kafka](https://kafka.apache.org/)
+  - [Ruby-Kafka](https://github.com/zendesk/ruby-kafka)
 
 ---
 
@@ -204,7 +206,8 @@ Corre que é coisa demais!
 
 Referência: 
 * [Fábio Akita - Canal Youtube](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
-* [torneseumprogramador](https://www.torneseumprogramador.com.br/)
-* [OneBitCode](https://onebitcode.com/)
-* [Jackson Pires](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
-* [Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+* [Wikipédia - A enciclopédia livre](https://www.wikipedia.org/)
+* [Danilo Aparecido - torneseumprogramador](https://www.torneseumprogramador.com.br/)
+* [Leonardo Scorza - OneBitCode](https://onebitcode.com/)
+* [Jackson Pires - Canal Youtube](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
+* [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
