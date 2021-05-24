@@ -9,6 +9,10 @@ Referência: [Roadmap.sh](https://roadmap.sh/)
 Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procure aprender sobre. Caso você já saiba sobre algum assunto abaixo, então pode pular! (Procure aprender Inglês ao longo dos estudos)
 
 ---
+### Aconselho assistir este vídeo antes de qualquer coisa.
+[Guia DEFINITIVO de Aprendendo a Aprender](https://youtu.be/oUPaJxk6TZ0)
+
+---
 
 ### Essencial - Dicas de como aprender Inglês
 * [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
