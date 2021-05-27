@@ -45,6 +45,7 @@ Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(lingua
 **Participe das comunidades Ruby**
 * [Ruby Brasil (Ajudamos muito) - Telegram](https://t.me/rubybrasil) 
 * [Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
+* [Grupo ada.rb](https://t.me/ruby_arch_design_br)
 
 **Instale o Ruby escolhendo um gerenciador, temos:**
 - [RMV](https://rvm.io/rvm/install)  
