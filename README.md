@@ -250,6 +250,7 @@ Corre que é coisa demais!
 
 Referência: 
 * [Fábio Akita - Canal Youtube](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+* [Eustaquio Rangel de Oliveira Jr.](https://www.linkedin.com/in/eustaquio-rangel/?originalSubdomain=br)
 * [Wikipédia - A enciclopédia livre](https://www.wikipedia.org/)
 * [Danilo Aparecido - torneseumprogramador](https://www.torneseumprogramador.com.br/)
 * [Leonardo Scorza - OneBitCode](https://onebitcode.com/)
