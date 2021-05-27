@@ -63,6 +63,7 @@ Caso queira conhecer mais (recomendo)
 * [O que vem DEPOIS do Hello World](https://youtu.be/YyWMN_0g3BQ)
 * [Hello World Como Você Nunca Viu!](https://youtu.be/Gp2m8ZuXoPg)
 * [Árvores: O Começo de TUDO | Estruturas de Dados e Algoritmos](https://youtu.be/9GdesxWtOgs)
+* [Programação multiparadigma | Rodrigo Serradura](https://serradura.github.io/pt-BR/blog/as-diferentes-formas-de-declarar-comportamento-em-ruby/)
 
 **Livros e Cursos para ajudar nos estudos:**
 - Livro - Conhecendo Ruby (Eustáquio Rangel) *esse livro você pode baixar gratuito e você pode doar e tem na amazon bem baratinho, vale a pena!*
@@ -156,7 +157,12 @@ Aprenda sobre as diferenças e como implementá-los.
 ---
 
 ### Aprenda sobre testes
+
+TDD (Test Driven Development), que pode ser traduzido como: desenvolvimento orientado a testes.
+
 *Garanta que seus projetos serão bem construídos.*
+* [Introdução a testes automatizados (TDD) com Ruby | Rodrigo Serradura](https://serradura.github.io/pt-BR/blog/introducao-a-testes-automatizados-com-ruby/)
+* [Minitest VS Rspec - Introdução | Rodrigo Serradura](https://serradura.github.io/pt-BR/blog/minitest-vs-rspec/)
 * [Minicurso de Testes (RSpec) - OneBitCode](https://onebitcode.com/course/minicurso-de-testes/)
 
 _Busque por mais conhecimento e pratique muito._
@@ -215,3 +221,4 @@ Referência:
 * [Leonardo Scorza - OneBitCode](https://onebitcode.com/)
 * [Jackson Pires - Canal Youtube](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
 * [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+* [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
