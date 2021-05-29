@@ -92,6 +92,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 **Vídeos**
 - [Curso -Linguagem Ruby - Danilo Aparecido](https://www.torneseumprogramador.com.br/aulas/ruby)
 - [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)
+- [Curso - Ruby Para Iniciantes - Noob Code](https://www.youtube.com/watch?v=bLDH3NypOVo&list=PLnV7i1DUV_zOit4a_tEDf1_PcRd25dL7e)
 
 **Frameworks**
 * Rails - o mais utilizado (mais conhecido por Ruby on Rails, RoR).
