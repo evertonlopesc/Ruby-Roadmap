@@ -258,3 +258,4 @@ Referência:
 * [Jackson Pires - Canal Youtube](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
 * [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 * [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
+* [Rafael Gomes](https://www.linkedin.com/in/rbgomes/)
