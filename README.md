@@ -260,3 +260,4 @@ Referência:
 * [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 * [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
 * [Rafael Gomes](https://www.linkedin.com/in/rbgomes/)
+* [Diego Araujo - Noob Code](https://www.linkedin.com/in/diego-araujo1985/)
