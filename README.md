@@ -226,6 +226,7 @@ Escolha uma:
 Corre que é coisa demais!
 * [Curso de Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
 * [Dominando o Docker - OneBitCode](https://onebitcode.com/dominando-o-docker/)
+* [Livro Docker para desenvolvedores - Rafael Gomes](https://leanpub.com/dockerparadesenvolvedores) *esse livro você pode baixar gratuito e você pode doar, vale muito a pena!*
 * [Documentação](https://docs.docker.com/)
 
 ---
@@ -257,3 +258,4 @@ Referência:
 * [Jackson Pires - Canal Youtube](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
 * [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 * [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
+* [Rafael Gomes](https://www.linkedin.com/in/rbgomes/)
