@@ -10,8 +10,9 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 ---
 ### Aconselho assistir este vídeo antes de qualquer coisa.
-**Vídeo**
 * [Guia DEFINITIVO de Aprendendo a Aprender](https://youtu.be/oUPaJxk6TZ0)
+
+*Falando em investimento, lembre-se: seu conhecimento é sua responsabilidade! Nenhuma empresa ou instituição tem obrigações com sua atualização profissional. Se você não tiver interesse, ou achar que os outros é que deveriam investir em você, devo dizer que você está redondamente errado. Seu conhecimento, aprendizado e experiência são as únicas coisas que ninguém jamais pode tirar ou roubar de você. Cuide bem deles!* by: Fábio Akita.
 
 ---
 
@@ -72,6 +73,10 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 * [A História de Ruby on Rails | visão de Fábio Akita](https://youtu.be/oEorhw5r2Do)
 
 **Leitura**
+
+*Antes de iniciar na busca na aprendizagem, gostaria de indicar essa leitura que para mim vale muito a pena*
+[Aprendendo Ruby e Rails, Livros e Guias](https://www.akitaonrails.com/2014/07/13/aprendendo-ruby-e-rails-livros-e-guias)
+
 * Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) 
 * Documentação: [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
 - Livro - Conhecendo Ruby (Eustáquio Rangel) *esse livro você pode baixar gratuito e você pode doar e tem na amazon bem baratinho, vale a pena!*
