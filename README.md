@@ -47,7 +47,6 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Curso de Javascript básico](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1)
 
 *Divirtam-se e aprenda o básico de início e caso ache algum curso melhor, faça!*
-ções (sobre os valores e estruturas decorrentes).
 
 **Principais conceitos da programação - Pratique!**
 - Lógica de programação - é um paradigma de programação que faz uso da lógica matemática.
