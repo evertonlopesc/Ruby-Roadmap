@@ -107,6 +107,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 - [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
+- [Curso Ruby on Rails 6 MVC](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
 
 *Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.*
 
