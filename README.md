@@ -179,6 +179,7 @@ Aprenda o padrão REST e como fazer uma API's RESTful.
 - [Vídeo sobre API](https://youtu.be/vGuqKIRWosk)
 - [Curso Ruby on Rails 6 API - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
 - [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
+- [Ruby on Rails API with Vue.js - Rails 5](https://web-crunch.com/posts/ruby-on-rails-api-vue-js)
 
 ---
 
