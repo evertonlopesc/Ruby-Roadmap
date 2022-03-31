@@ -49,7 +49,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 *Divirtam-se e aprenda o básico de início e caso ache algum curso melhor, faça!*
 
 **Principais conceitos da programação - Pratique!**
-- Lógica de programação - é um paradigma de programação que faz uso da lógica matemática.
+- *Lógica de programação* - é um paradigma de programação que faz uso da lógica matemática.
 - Algoritmos - é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.
 - Estrutura de Dados - é uma coleção tanto de valores (e seus relacionamentos) quanto de opera
 - [Qual a REAL diferença entre Arquivos Binário e Texto??](https://youtu.be/oSCVb4Ts-G4)
@@ -173,6 +173,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 Aprenda o padrão REST e como fazer uma API's RESTful.
 - [wikipédia](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
 - [Vídeo sobre API](https://youtu.be/vGuqKIRWosk)
+- [Curso Ruby on Rails 6 API](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
 - [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
 
 ---
@@ -260,3 +261,4 @@ Referência:
 * [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
 * [Rafael Gomes](https://www.linkedin.com/in/rbgomes/)
 * [Diego Araujo - Noob Code](https://www.linkedin.com/in/diego-araujo1985/)
+* [Paulo Eduardo Melo](https://www.youtube.com/channel/UCr9w-w_dwEK1pXp1Rec1K6g)
