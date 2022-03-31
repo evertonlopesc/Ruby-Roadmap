@@ -108,6 +108,9 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 - [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 - [Curso Ruby on Rails 6 MVC - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
+- [How to use Hotwire in Rails](https://youtu.be/Qp6sxgjA-xY)
+- [Ruby on Rails 6 for Beginners - GoRails](https://youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
+- [Hotwire for Rails - GoRails](https://youtube.com/playlist?list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7)
 
 *Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.*
 
@@ -263,3 +266,4 @@ Referência:
 * [Rafael Gomes](https://www.linkedin.com/in/rbgomes/)
 * [Diego Araujo - Noob Code](https://www.linkedin.com/in/diego-araujo1985/)
 * [Paulo Eduardo Melo](https://www.youtube.com/channel/UCr9w-w_dwEK1pXp1Rec1K6g)
+* [GoRails](https://www.youtube.com/c/GorailsTV)
