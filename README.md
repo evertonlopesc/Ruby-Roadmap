@@ -107,7 +107,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 - [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
-- [Curso Ruby on Rails 6 MVC](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
+- [Curso Ruby on Rails 6 MVC - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
 
 *Crie CRUD's para praticar, melhorando sempre. Evolua esse app de CRUD com login, permissões etc.*
 
@@ -174,7 +174,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 Aprenda o padrão REST e como fazer uma API's RESTful.
 - [wikipédia](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
 - [Vídeo sobre API](https://youtu.be/vGuqKIRWosk)
-- [Curso Ruby on Rails 6 API](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
+- [Curso Ruby on Rails 6 API - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
 - [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
 
 ---
