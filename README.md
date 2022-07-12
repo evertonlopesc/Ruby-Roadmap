@@ -85,7 +85,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Grupo ada.rb](https://t.me/ruby_arch_design_br)
 
 **Instalar e Gerenciar versões**
-- [RMV](https://rvm.io/rvm/install)  
+- [RVM](https://rvm.io/rvm/install)  
 - [RBenv](https://github.com/rbenv/rbenv)  
 - [ASDF - Manager multiple language](https://asdf-vm.com/#/) (*é bem completo*)
 
