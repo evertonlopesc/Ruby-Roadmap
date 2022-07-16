@@ -107,7 +107,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 - [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
-- [Curso Ruby on Rails 6 MVC - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
+- [Curso Ruby on Rails 6 MVC - Paulo Melo](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
 - [How to use Hotwire in Rails](https://youtu.be/Qp6sxgjA-xY)
 - [Ruby on Rails 6 for Beginners - GoRails](https://youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
 - [Hotwire for Rails - GoRails](https://youtube.com/playlist?list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7)
@@ -177,7 +177,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 Aprenda o padrão REST e como fazer uma API's RESTful.
 - [wikipédia](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
 - [Vídeo sobre API](https://youtu.be/vGuqKIRWosk)
-- [Curso Ruby on Rails 6 API - Fábio Melo](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
+- [Curso Ruby on Rails 6 API - Paulo Melo](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
 - [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
 - [Ruby on Rails API with Vue.js - Rails 5](https://web-crunch.com/posts/ruby-on-rails-api-vue-js)
 
