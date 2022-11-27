@@ -88,9 +88,9 @@ Documentações oficiais:
 - [Ruby api](https://rubyapi.org/)
 - [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
 
-- Livro - Conhecendo Ruby (Eustáquio Rangel) *esse livro você pode baixar gratuito e você pode doar e tem na amazon bem baratinho, vale a pena!*
-  - [Leanpub](https://leanpub.com/conhecendo-ruby)
-  - [Amazon.br](https://www.amazon.com.br/Conhecendo-Ruby-Eust%C3%A1quio-Rangel-Oliveira-ebook/dp/B00DG3UQ7A)
+- [Eustáquio Rangel - livros de Ruby, Rails e GIT](http://eustaquiorangel.com/livros)
+- [Leanpub](https://leanpub.com/conhecendo-ruby)
+- [Amazon.br](https://www.amazon.com.br/Conhecendo-Ruby-Eust%C3%A1quio-Rangel-Oliveira-ebook/dp/B00DG3UQ7A)
 - [Livro - Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/)
 
 **Comunidades Ruby**
@@ -117,6 +117,18 @@ Documentações oficiais:
 ### Rails
 **Documentação**
 - [Ruby on Rails guides](https://guides.rubyonrails.org/)
+
+Ajudinha para iniciantes (doc oficial):
+- [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record Querying](https://guides.rubyonrails.org/active_record_querying.html)
+- [Routes](https://guides.rubyonrails.org/routing.html)
+- [Controller](https://guides.rubyonrails.org/action_controller_overview.html)
+- [Views: Layouts and Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
+- [Minitest](https://guides.rubyonrails.org/testing.html)
+- [Webpacker](https://guides.rubyonrails.org/webpacker.html)
+- [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+- [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+- [i18n - Translate](https://guides.rubyonrails.org/i18n.html)
 
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
