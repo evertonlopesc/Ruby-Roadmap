@@ -81,7 +81,13 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 **Leitura**
 - Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) 
-- Documentação: [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
+
+Documentações oficiais: 
+- [Oficial ruby doc](https://docs.ruby-lang.org/en/)
+- [Ruby references](https://rubyreferences.github.io/rubyref/)
+- [Ruby api](https://rubyapi.org/)
+- [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
+
 - Livro - Conhecendo Ruby (Eustáquio Rangel) *esse livro você pode baixar gratuito e você pode doar e tem na amazon bem baratinho, vale a pena!*
   - [Leanpub](https://leanpub.com/conhecendo-ruby)
   - [Amazon.br](https://www.amazon.com.br/Conhecendo-Ruby-Eust%C3%A1quio-Rangel-Oliveira-ebook/dp/B00DG3UQ7A)
@@ -110,7 +116,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 ### Rails
 **Documentação**
-[Ruby on Rails](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby on Rails guides](https://guides.rubyonrails.org/)
 
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
