@@ -90,7 +90,6 @@ Documentações oficiais:
 
 - [Eustáquio Rangel - livros de Ruby, Rails e GIT](http://eustaquiorangel.com/livros)
 - [Leanpub](https://leanpub.com/conhecendo-ruby)
-- [Amazon.br](https://www.amazon.com.br/Conhecendo-Ruby-Eust%C3%A1quio-Rangel-Oliveira-ebook/dp/B00DG3UQ7A)
 - [Livro - Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/)
 
 **Comunidades Ruby**
