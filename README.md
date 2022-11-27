@@ -42,9 +42,17 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - Sua Linguagem Não É Especial - [Parte 1](https://youtu.be/p9-WuJbVHHc) | [Parte 2](https://youtu.be/XcTTajFENHI)
 
 **Front End - Conhecimento básico:**
+
+#### Curso
 - [Curso de HTML básico](https://www.youtube.com/watch?v=o5fd5FUk2fk&list=PLx4x_zx8csUgluS7H9gyb9HH7g7F2ZWSQ)
 - [Curso de CSS básico](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
 - [Curso de Javascript básico](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1)
+
+#### Documentação
+- [Hypertext Transfer Protocol (HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript (JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 *Divirtam-se e aprenda o básico de início e caso ache algum curso melhor, faça!*
 
