@@ -18,7 +18,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 ### Essencial - Dicas de como aprender Inglês
 **Vídeo**
-- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
+- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0)
 
 **Ferramentas**
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)
@@ -74,15 +74,15 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
-### linguagem Ruby - (Divirtam-se!)
-**Recomendo:** 
+## Ruby - Linguagem (Divirtam-se!)
+**Recomendo:**
 - [A História de Ruby on Rails | visão de Fábio Akita](https://youtu.be/oEorhw5r2Do)
 - [Aprendendo Ruby e Rails, Livros e Guias](https://www.akitaonrails.com/2014/07/13/aprendendo-ruby-e-rails-livros-e-guias)
 
 **Leitura**
-- Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) 
+- Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
 
-Documentações oficiais: 
+Documentações oficiais:
 - [Oficial ruby doc](https://docs.ruby-lang.org/en/)
 - [Ruby references](https://rubyreferences.github.io/rubyref/)
 - [Ruby api](https://rubyapi.org/)
@@ -93,13 +93,13 @@ Documentações oficiais:
 - [Livro - Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/)
 
 **Comunidades Ruby**
-- [Ruby Brasil (Ajudamos muito) - Telegram](https://t.me/rubybrasil) 
+- [Ruby Brasil (Ajudamos muito) - Telegram](https://t.me/rubybrasil)
 - [Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
 - [Grupo ada.rb](https://t.me/ruby_arch_design_br)
 
 **Instalar e Gerenciar versões**
-- [RVM](https://rvm.io/rvm/install)  
-- [RBenv](https://github.com/rbenv/rbenv)  
+- [RVM](https://rvm.io/rvm/install)
+- [RBenv](https://github.com/rbenv/rbenv)
 - [ASDF - Manager multiple language](https://asdf-vm.com/#/) (*é bem completo*)
 
 **Vídeos**
@@ -113,20 +113,20 @@ Documentações oficiais:
 - Hanami (ex Lotus)
 - Hobbit - minimalista.
 
-### Rails
+## Rails - Framework
 **Documentação**
 - [Ruby on Rails guides](https://guides.rubyonrails.org/)
 
 Ajudinha para iniciantes (doc oficial):
-- [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-- [Active Record Querying](https://guides.rubyonrails.org/active_record_querying.html)
-- [Routes](https://guides.rubyonrails.org/routing.html)
-- [Controller](https://guides.rubyonrails.org/action_controller_overview.html)
-- [Views: Layouts and Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
-- [Minitest](https://guides.rubyonrails.org/testing.html)
-- [Webpacker](https://guides.rubyonrails.org/webpacker.html)
-- [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-- [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+- [Active Record Basics - Aqui ele mostra o básico](https://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record Querying - Pesquisas no banco de dados](https://guides.rubyonrails.org/active_record_querying.html)
+- [Routes - Como criar as rotas "url"](https://guides.rubyonrails.org/routing.html)
+- [Controller - Envia dados ao front, views](https://guides.rubyonrails.org/action_controller_overview.html)
+- [Views: Layouts and Rendering - Customizar as páginas](https://guides.rubyonrails.org/layouts_and_rendering.html)
+- [Minitest - Teste padrão do rails](https://guides.rubyonrails.org/testing.html)
+- [Webpacker - Pacotes para javascript, css dentre outros](https://guides.rubyonrails.org/webpacker.html)
+- [Action Mailer Basics - Responsável por configurar os envios de emails](https://guides.rubyonrails.org/action_mailer_basics.html)
+- [Active Job Basics - Cria, Enfileira e Executa serviços em background](https://guides.rubyonrails.org/active_job_basics.html)
 - [i18n - Translate](https://guides.rubyonrails.org/i18n.html)
 
 **Vídeos**
@@ -156,16 +156,16 @@ Ajudinha para iniciantes (doc oficial):
 5. Gerenciamento de Memória  [Parte 1](https://youtu.be/9AK_1gqEfkQ)
 6. Gerenciamento de Memória  [Parte 2](https://youtu.be/DGU1awKrNiA)
 
-**Comandos do Terminal** 
+**Comandos do Terminal**
 
 **Dicas**
 - Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual.
 
 **Leitura**
 - [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
- 
+
 **Vídeos**
-- [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
+- [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)
 - [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
 
 ---
@@ -176,11 +176,11 @@ Ajudinha para iniciantes (doc oficial):
 - [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 **Dicas**
-- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
+- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
 
 **Vídeos**
 - [Entendendo sobre o Git - Fábio Akita](https://youtu.be/6Czd1Yetaac)
-- [Usando Git - Fábio Akita](https://youtu.be/6OokP-NE49k)  
+- [Usando Git - Fábio Akita](https://youtu.be/6OokP-NE49k)
 
 ---
 
@@ -257,7 +257,6 @@ Escolha uma:
 Corre que é coisa demais!
 - [Curso de Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
 - [Dominando o Docker - OneBitCode](https://onebitcode.com/dominando-o-docker/)
-- [Livro Docker para desenvolvedores - Rafael Gomes](https://leanpub.com/dockerparadesenvolvedores) *esse livro você pode baixar gratuito e você pode doar, vale muito a pena!*
 - [Documentação](https://docs.docker.com/)
 
 ---
@@ -280,7 +279,7 @@ Corre que é coisa demais!
 
 ---
 
-Referência: 
+Referência:
 * [Fábio Akita - Canal Youtube](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Eustaquio Rangel de Oliveira Jr.](https://www.linkedin.com/in/eustaquio-rangel/?originalSubdomain=br)
 * [Wikipédia - A enciclopédia livre](https://www.wikipedia.org/)
