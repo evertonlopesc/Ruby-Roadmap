@@ -78,6 +78,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 **Recomendo:**
 - [A História de Ruby on Rails | visão de Fábio Akita](https://youtu.be/oEorhw5r2Do)
 - [Aprendendo Ruby e Rails, Livros e Guias](https://www.akitaonrails.com/2014/07/13/aprendendo-ruby-e-rails-livros-e-guias)
+- [The Odin Project](https://www.theodinproject.com/)
 
 **Leitura**
 - Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
@@ -101,6 +102,7 @@ Documentações oficiais:
 - [RVM](https://rvm.io/rvm/install)
 - [RBenv](https://github.com/rbenv/rbenv)
 - [ASDF - Manager multiple language](https://asdf-vm.com/#/) (*é bem completo*)
+- [Ruby Installer For Windows](https://rubyinstaller.org/)
 
 **Vídeos**
 - [Curso -Linguagem Ruby - Danilo Aparecido](https://www.torneseumprogramador.com.br/aulas/ruby)
@@ -163,6 +165,9 @@ Ajudinha para iniciantes (doc oficial):
 
 **Leitura**
 - [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
+ 
+**Download para arquivos de leitura**
+- [Guia Foca Linux](https://www.guiafoca.org/) *Arquivos baixados e testados*
 
 **Vídeos**
 - [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)
