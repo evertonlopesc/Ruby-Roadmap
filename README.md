@@ -106,7 +106,7 @@ Documentações oficiais:
 
 **Vídeos**
 - [Curso -Linguagem Ruby - Danilo Aparecido](https://www.torneseumprogramador.com.br/aulas/ruby)
-- [Curso - Ruby Puro - OneBitCode](https://onebitcode.com/course/ruby-puro/)
+- [Curso - Ruby Puro - OneBitCode](https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ&si=ijojIzHlTqO-yH0e)
 - [Curso - Ruby Para Iniciantes - Noob Code](https://www.youtube.com/watch?v=bLDH3NypOVo&list=PLnV7i1DUV_zOit4a_tEDf1_PcRd25dL7e)
 
 **Frameworks**
@@ -132,7 +132,6 @@ Ajudinha para iniciantes (doc oficial):
 - [i18n - Translate](https://guides.rubyonrails.org/i18n.html)
 
 **Vídeos**
-- [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
 - [Curso de Ruby on Rails](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 - [Curso Ruby on Rails 6 MVC - Paulo Melo](https://youtube.com/playlist?list=PLqsayW8DhUmv49CBT7AvetMplBViAcwuk)
 - [How to use Hotwire in Rails](https://youtu.be/Qp6sxgjA-xY)
@@ -165,7 +164,7 @@ Ajudinha para iniciantes (doc oficial):
 
 **Leitura**
 - [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
- 
+
 **Download para arquivos de leitura**
 - [Guia Foca Linux](https://www.guiafoca.org/) *Arquivos baixados e testados*
 
@@ -208,13 +207,11 @@ Aprenda o padrão REST e como fazer uma API's RESTful.
 - [wikipédia](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
 - [Vídeo sobre API](https://youtu.be/vGuqKIRWosk)
 - [Curso Ruby on Rails 6 API - Paulo Melo](https://youtube.com/playlist?list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)
-- [Criando uma API - OneBitCode](https://onebitcode.com/api-completa-rails/)
 - [Ruby on Rails API with Vue.js - Rails 5](https://web-crunch.com/posts/ruby-on-rails-api-vue-js)
 
 ---
 
 ## Caching
-- [Cache no Rails - OneBitCode](https://onebitcode.com/cache_no_rails/)
 
 ---
 
@@ -223,7 +220,6 @@ Aprenda o padrão REST e como fazer uma API's RESTful.
 - [Entendendo Supremacia Quântica](https://youtu.be/uaKWBl49mUI)
 - [Entendendo Conceitos Básicos de CRIPTOGRAFIA | Parte 1/2](https://youtu.be/CcU5Kc_FN_4)
 - [Entendendo Conceitos Básicos de CRIPTOGRAFIA | Parte 2/2](https://youtu.be/HCHqtpipwu4)
-- [Autenticação + Autorização - OneBitCode](https://www.youtube.com/watch?v=0Y7B4h3Mwi8&list=PLdDT8if5attE7GG4L4Annvd9gEhKsPvb9)
 
 ---
 
@@ -233,7 +229,7 @@ TDD (Test Driven Development), que pode ser traduzido como: desenvolvimento orie
 *Garanta que seus projetos serão bem construídos.*
 - [Introdução a testes automatizados (TDD) com Ruby | Rodrigo Serradura](https://serradura.github.io/pt-BR/blog/introducao-a-testes-automatizados-com-ruby/)
 - [Minitest VS Rspec - Introdução | Rodrigo Serradura](https://serradura.github.io/pt-BR/blog/minitest-vs-rspec/)
-- [Minicurso de Testes (RSpec) - OneBitCode](https://onebitcode.com/course/minicurso-de-testes/)
+- [Minicurso de Testes (RSpec) - OneBitCode](https://youtube.com/playlist?list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW&si=l4uauzJFYyaa7-J5)
 
 _Busque por mais conhecimento e pratique muito._
 
@@ -252,7 +248,7 @@ Escolha uma:
 ## Search Engine
 À medida que o aplicativo cresce, consultas simples em seu banco de dados não vão interrompê-lo e você terá que recorrer a um mecanismo de busca.
 Escolha uma:
-- [ElasticSearch](https://onebitcode.com/buscas-elasticsearch/)
+- ElasticSearch
 - Solr
 - Sphinx
 
@@ -261,7 +257,6 @@ Escolha uma:
 ## Aprenda como usar o Docker
 Corre que é coisa demais!
 - [Curso de Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
-- [Dominando o Docker - OneBitCode](https://onebitcode.com/dominando-o-docker/)
 - [Documentação](https://docs.docker.com/)
 
 ---
@@ -272,13 +267,11 @@ Corre que é coisa demais!
 ---
 
 ## Apenda como usar Web Sockets
-- [Action Cable - OneBitCode](https://onebitcode.com/como-criar-um-chat-em-tempo-real-usando-action-cable-rails-5/)
 
 ---
 
 ## GraphQL
 - [Vídeo sobre GraphQL](https://www.youtube.com/watch?v=xbLpIhCsIdg&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=19])
-- [GraphQL - OneBitCode](https://onebitcode.com/graphql-introducao/)
 
 *Agora é com o tempo e as novidades que vier, tenha uma boa sorte e não desista!*
 
@@ -289,7 +282,6 @@ Referência:
 * [Eustaquio Rangel de Oliveira Jr.](https://www.linkedin.com/in/eustaquio-rangel/?originalSubdomain=br)
 * [Wikipédia - A enciclopédia livre](https://www.wikipedia.org/)
 * [Danilo Aparecido - torneseumprogramador](https://www.torneseumprogramador.com.br/)
-* [Leonardo Scorza - OneBitCode](https://onebitcode.com/)
 * [Jackson Pires - Canal Youtube](https://www.linkedin.com/in/jackson-pires/?originalSubdomain=br)
 * [Gabriel Fróes e Vanessa Weber - Código FonteTV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 * [Rodrigo Serradura](https://serradura.github.io/pt-BR/)
