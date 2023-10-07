@@ -18,7 +18,7 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 
 ### Essencial - Dicas de como aprender Inglês
 **Vídeo**
-- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
+- [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0)
 
 **Ferramentas**
 - [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)
@@ -42,9 +42,17 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - Sua Linguagem Não É Especial - [Parte 1](https://youtu.be/p9-WuJbVHHc) | [Parte 2](https://youtu.be/XcTTajFENHI)
 
 **Front End - Conhecimento básico:**
+
+#### Curso
 - [Curso de HTML básico](https://www.youtube.com/watch?v=o5fd5FUk2fk&list=PLx4x_zx8csUgluS7H9gyb9HH7g7F2ZWSQ)
 - [Curso de CSS básico](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
 - [Curso de Javascript básico](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1)
+
+#### Documentação
+- [Hypertext Transfer Protocol (HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript (JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 *Divirtam-se e aprenda o básico de início e caso ache algum curso melhor, faça!*
 
@@ -66,28 +74,33 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Exercícios com Hacker Rank](https://www.hackerrank.com/)
 - [Exercícios com Exercism.io](https://exercism.io/) __(esse tem ajuda com especialistas)__
 
-### linguagem Ruby - (Divirtam-se!)
-**Recomendo:** 
+## Ruby - Linguagem (Divirtam-se!)
+**Recomendo:**
 - [A História de Ruby on Rails | visão de Fábio Akita](https://youtu.be/oEorhw5r2Do)
 - [Aprendendo Ruby e Rails, Livros e Guias](https://www.akitaonrails.com/2014/07/13/aprendendo-ruby-e-rails-livros-e-guias)
 - [The Odin Project](https://www.theodinproject.com/)
 
 **Leitura**
-- Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) 
-- Documentação: [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
-- Livro - Conhecendo Ruby (Eustáquio Rangel) *esse livro você pode baixar gratuito e você pode doar e tem na amazon bem baratinho, vale a pena!*
-  - [Leanpub](https://leanpub.com/conhecendo-ruby)
-  - [Amazon.br](https://www.amazon.com.br/Conhecendo-Ruby-Eust%C3%A1quio-Rangel-Oliveira-ebook/dp/B00DG3UQ7A)
+- Wikipédia: [História Ruby language](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
+
+Documentações oficiais:
+- [Oficial ruby doc](https://docs.ruby-lang.org/en/)
+- [Ruby references](https://rubyreferences.github.io/rubyref/)
+- [Ruby api](https://rubyapi.org/)
+- [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
+
+- [Eustáquio Rangel - livros de Ruby, Rails e GIT](http://eustaquiorangel.com/livros)
+- [Leanpub](https://leanpub.com/conhecendo-ruby)
 - [Livro - Ruby® Notes for Professionals](https://books.goalkicker.com/RubyBook/)
 
 **Comunidades Ruby**
-- [Ruby Brasil (Ajudamos muito) - Telegram](https://t.me/rubybrasil) 
+- [Ruby Brasil (Ajudamos muito) - Telegram](https://t.me/rubybrasil)
 - [Ruby Brasil - Facebook](https://www.facebook.com/groups/735446619838031/?multi_permalinks=4243373185712006)
 - [Grupo ada.rb](https://t.me/ruby_arch_design_br)
 
 **Instalar e Gerenciar versões**
-- [RVM](https://rvm.io/rvm/install)  
-- [RBenv](https://github.com/rbenv/rbenv)  
+- [RVM](https://rvm.io/rvm/install)
+- [RBenv](https://github.com/rbenv/rbenv)
 - [ASDF - Manager multiple language](https://asdf-vm.com/#/) (*é bem completo*)
 - [Ruby Installer For Windows](https://rubyinstaller.org/)
 
@@ -102,9 +115,21 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - Hanami (ex Lotus)
 - Hobbit - minimalista.
 
-### Rails
+## Rails - Framework
 **Documentação**
-[Ruby on Rails](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby on Rails guides](https://guides.rubyonrails.org/)
+
+Ajudinha para iniciantes (doc oficial):
+- [Active Record Basics - Aqui ele mostra o básico](https://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record Querying - Pesquisas no banco de dados](https://guides.rubyonrails.org/active_record_querying.html)
+- [Routes - Como criar as rotas "url"](https://guides.rubyonrails.org/routing.html)
+- [Controller - Envia dados ao front, views](https://guides.rubyonrails.org/action_controller_overview.html)
+- [Views: Layouts and Rendering - Customizar as páginas](https://guides.rubyonrails.org/layouts_and_rendering.html)
+- [Minitest - Teste padrão do rails](https://guides.rubyonrails.org/testing.html)
+- [Webpacker - Pacotes para javascript, css dentre outros](https://guides.rubyonrails.org/webpacker.html)
+- [Action Mailer Basics - Responsável por configurar os envios de emails](https://guides.rubyonrails.org/action_mailer_basics.html)
+- [Active Job Basics - Cria, Enfileira e Executa serviços em background](https://guides.rubyonrails.org/active_job_basics.html)
+- [i18n - Translate](https://guides.rubyonrails.org/i18n.html)
 
 **Vídeos**
 - [Guia de Comandos Rails - OneBitCode](https://onebitcode.com/o-guia-de-comandos-do-rails/#generate)
@@ -133,17 +158,19 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 5. Gerenciamento de Memória  [Parte 1](https://youtu.be/9AK_1gqEfkQ)
 6. Gerenciamento de Memória  [Parte 2](https://youtu.be/DGU1awKrNiA)
 
-**Comandos do Terminal** 
+**Comandos do Terminal**
 
 **Dicas**
 - Instalar/Atualizar, Listar arquivos, Mudar de diretório, Criar, Remover, Copiar, Mover, Renomear,Visualizar histórico de comandos, Manual.
 
 **Leitura**
 - [Certificação LPIC Essencial - Veja os comandos sugeridos](https://lpibrasil.com.br/linux-essentials/)
-- [Guia Foca Linux](https://www.guiafoca.org/)
  
+**Download para arquivos de leitura**
+- [Guia Foca Linux](https://www.guiafoca.org/) *Arquivos baixados e testados*
+
 **Vídeos**
-- [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)  
+- [Comandos importantes - Parte 1](https://www.youtube.com/watch?v=uZeMQz89pfw)
 - [Comandos importantes - Parte 2](https://www.youtube.com/watch?v=1HapBf0cnmU)
 
 ---
@@ -154,11 +181,11 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Documentação resumida](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 **Dicas**
-- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
+- [Noções básicas](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
 
 **Vídeos**
 - [Entendendo sobre o Git - Fábio Akita](https://youtu.be/6Czd1Yetaac)
-- [Usando Git - Fábio Akita](https://youtu.be/6OokP-NE49k)  
+- [Usando Git - Fábio Akita](https://youtu.be/6OokP-NE49k)
 
 ---
 
@@ -235,7 +262,6 @@ Escolha uma:
 Corre que é coisa demais!
 - [Curso de Docker](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
 - [Dominando o Docker - OneBitCode](https://onebitcode.com/dominando-o-docker/)
-- [Livro Docker para desenvolvedores - Rafael Gomes](https://leanpub.com/dockerparadesenvolvedores) *esse livro você pode baixar gratuito e você pode doar, vale muito a pena!*
 - [Documentação](https://docs.docker.com/)
 
 ---
@@ -258,7 +284,7 @@ Corre que é coisa demais!
 
 ---
 
-Referência: 
+Referência:
 * [Fábio Akita - Canal Youtube](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Eustaquio Rangel de Oliveira Jr.](https://www.linkedin.com/in/eustaquio-rangel/?originalSubdomain=br)
 * [Wikipédia - A enciclopédia livre](https://www.wikipedia.org/)
